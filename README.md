@@ -7,4 +7,4 @@ Use a HashMap to count how many points are at each unique distance from i.
 
 For each distance group with freq points, there are freq * (freq - 1) boomerangs possible (order matters).
 
-Accumulate the total count of such valid boomerang combinations.
+Accumulate the total count of such valid boomerang combinations...
